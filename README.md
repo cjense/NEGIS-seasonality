@@ -1,1 +1,1 @@
-# NEGIS_seasonality
+# NEGIS-seasonality
